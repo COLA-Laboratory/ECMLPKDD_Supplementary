@@ -24,3 +24,5 @@ autobench --model yangheng/PlantRNA-FM --benchmark OGB --trainer native
 Find predictions in `prediction` folder. 
 zip and upload the `prediction` folder to the competition website.
 
+# OGB Submission Guide
+[OGBSubmissionGuide.pdf](https://github.com/user-attachments/files/19833957/OGBSubmissionGuide.pdf)
