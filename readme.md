@@ -10,9 +10,9 @@ pip install omnigenome
 ```
 
 # Download the data
+The data is uploaded in the OGB.zip file. Please download the data from there directly.
 ```bash
-Download from Github
-GITHUB ...
+wget https://github.com/COLA-Laboratory/ECMLPKDD_Supplementary/raw/main/OGB.zip
 ```
 
 # Use baseline via AutoBench
